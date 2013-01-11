@@ -1,4 +1,4 @@
 mygov-design-assets
 ===================
 
-Design files from Project MyGov
+MyGov Design files, used create the initial design for MyGov: A White House Presidential Innovation Fellows project.

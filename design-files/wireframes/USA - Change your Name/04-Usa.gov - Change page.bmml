@@ -1,0 +1,142 @@
+<mockup version="1.0" skin="sketch" measuredW="1240" measuredH="833" mockupW="1020" mockupH="830">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="220" y="3" w="1020" h="830" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>USA.gov%0Ahttp%3A//www.usa.gov/change-your-name</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="272" y="133" w="-1" h="-1" measuredW="159" measuredH="56" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>40</size>
+        <text>USA.gov</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="250" y="133" w="960" h="643" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="884" y="147" w="-1" h="-1" measuredW="66" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::SearchBox" x="583" y="149" w="295" h="-1" measuredW="64" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="1003" y="149" w="-1" h="-1" measuredW="186" measuredH="23" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1-800-FED-INFO%20%28333-4636%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="272" y="210" w="-1" h="-1" measuredW="347" measuredH="29" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Changing%20your%20name%20-%20basic%20information</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="272" y="248" w="646" h="52" measuredW="1141" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>12</size>
+        <text>Legally%20Changing%20Your%20Name%3A%20You%20can%20determine%20what%20your%20state%20requirements%20for%20name%20changes%20are%20by%20contacting%20a%20local%20lawyer%2C%20contacting%20your%20county%20court%2C%20or%20looking%20up%20the%20state%20statutes%20in%20a%20law%20library.</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::HRule" x="272" y="193" w="916" h="-1" measuredW="100" measuredH="5" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Paragraph" x="272" y="289" w="806" h="82" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>12</size>
+        <text>After%20the%20Name%20Change%20Occurs%0A%20%0A%u2022%20Notify%20the%20Social%20Security%20Administration%20%28SSA%29%0A%u2022%20Get%20a%20Social%20Security%20replacement%20card</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Paragraph" x="272" y="373" w="675" h="140" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>12</size>
+        <text>Generally%2C%20the%20Internal%20Revenue%20Service%20%28IRS%29%20updates%20their%20records%2010%20days%20after%20the%20SSA%20records%20the%20name%20change.%0A%0AFor%20more%20information%2C%20contact%20SSA%20at%3A%0A%0APhone%3A%201.800.772.1213%20%0ATTY%3A%201.800.325.0778%0AInternational%20SSA%20Operations%20%28if%20you%20live%20outside%20the%20U.S.%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::HRule" x="272" y="520" w="661" h="-1" measuredW="100" measuredH="5" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="286" y="552" w="-1" h="-1" measuredW="306" measuredH="29" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>We%20can%20help%20you%20start%20the%20process%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::MultilineButton" x="286" y="590" w="334" h="74" measuredW="205" measuredH="74" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <icon>RightTriangleIcon%7Csmall</icon>
+        <text>Start%20Now%0A%20It%20only%20takes%20a%20few%20minutes%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::VRule" x="956" y="248" w="-1" h="494" measuredW="5" measuredH="100" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Paragraph" x="974" y="248" w="200" h="63" measuredW="200" measuredH="140" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>11</size>
+        <text>Answer%20Information%0AAnswer%20ID%3A%2010103%0ALast%20Reviewed%3A%2008/20/2012</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Paragraph" x="972" y="319" w="219" h="218" measuredW="200" measuredH="140" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>false</bold>
+        <size>11</size>
+        <text>People%20who%20viewed%20this%20answer%20also%20ended%20up%20taking%20a%20look%20at%3A%0A%20%0A*%20Housing%20Assistance%3A%20Rent%20Payments%20%0A*%20Locating%20an%20Inmate%20Held%20in%20a%20State%20or%20Local%20Correctional%20Facility%20%0A*%20State%20and%20Local%20Corrections%20Departments%20%0A*%20Programs%20to%20Help%20Homeowners%20Avoid%20Foreclosure%20%0A*%20Government%20Grants%20and%20Loans%20for%20Individuals%20%0A%20%0AMore%20Answers%20%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Link" x="286" y="679" w="-1" h="-1" measuredW="291" measuredH="23" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Already%20have%20a%20MyGov%20account%3F%20Sign%20in%20now%20%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Canvas" x="267" y="537" w="666" h="212" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>16777215</borderColor>
+        <color>14540253</color>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="__group__" x="250" y="91" w="960" h="46" measuredW="960" measuredH="46" zOrder="19" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="960" h="46" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="30">
+          <controlProperties>
+            <color>15658734</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="15" y="11" w="63" h="25" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="30">
+          <controlProperties>
+            <bold>true</bold>
+            <size>14</size>
+            <text>MyGov</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::SearchBox" x="738" y="12" w="203" h="-1" measuredW="198" measuredH="25" zOrder="2" locked="false" isInGroup="30">
+          <controlProperties>
+            <text>Search%20all%20Government%20sites</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::LinkBar" x="73" y="13" w="-1" h="-1" measuredW="99" measuredH="20" zOrder="3" locked="false" isInGroup="30">
+          <controlProperties>
+            <bold>false</bold>
+            <size>11</size>
+            <text>Sign%20up%2C%20Sign%20in</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Link" x="593" y="678" w="-1" h="-1" measuredW="77" measuredH="23" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>What%27s%20this%3F</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,228 @@
+<mockup version="1.0" skin="sketch" measuredW="1240" measuredH="833" mockupW="1020" mockupH="830">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="220" y="3" w="1020" h="830" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>USA.gov%0Ahttp%3A//www.mygov.usa.gov/dashboard/</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="272" y="148" w="-1" h="-1" measuredW="382" measuredH="56" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>40</size>
+        <text>MyGov%20-%20Dashboard</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="250" y="133" w="960" h="643" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="272" y="225" w="605" h="50" measuredW="925" measuredH="23" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>13</size>
+        <text>Navigating%20government%20just%20got%20easier.%20MyGov%20helps%20you%20find%20the%20services%20and%20information%20you%20need%20from%20across%20federal%20government%2C%20whenever%20you%20need%20it.</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::HRule" x="272" y="213" w="916" h="-1" measuredW="100" measuredH="5" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::VRule" x="904" y="239" w="-1" h="492" measuredW="5" measuredH="100" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::HRule" x="918" y="422" w="267" h="-1" measuredW="100" measuredH="5" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Label" x="272" y="549" w="529" h="28" measuredW="435" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Based%20on%20what%20you%27ve%20told%20us%2C%20you%20may%20be%20interested%20in%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="924" y="601" w="248" h="30" measuredW="156" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Download%20your%20data</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Button" x="924" y="677" w="111" h="28" measuredW="98" measuredH="28" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>16777215</color>
+        <icon>DownloadIcon%7Cxsmall</icon>
+        <text>Download</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Label" x="924" y="631" w="266" h="49" measuredW="332" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>12</size>
+        <text>Download%20all%20your%20account%20information%20any%20time%20-%20it%27s%20yours%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Label" x="920" y="431" w="248" h="30" measuredW="115" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Did%20you%20know%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Label" x="920" y="457" w="266" h="46" measuredW="384" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>12</size>
+        <text>%u2022%20Single%20family%20home%20sales%20in%20your%20neighborhood%20rose%2012%25%20last%20month.</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Label" x="920" y="499" w="266" h="46" measuredW="341" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>12</size>
+        <text>%u2022%20The%20unemployment%20rate%20in%20your%20home%20state%20dropped%20to%208.5%25</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Label" x="920" y="539" w="266" h="46" measuredW="253" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>12</size>
+        <text>%u2022%20Gross%20domestic%20product%20in%20the%20US%20rose%201.5%25</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Link" x="924" y="559" w="-1" h="-1" measuredW="36" measuredH="23" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>More</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::HRule" x="924" y="590" w="267" h="-1" measuredW="100" measuredH="5" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Link" x="924" y="722" w="-1" h="-1" measuredW="114" measuredH="20" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>11</size>
+        <text>x%20Delete%20your%20account</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Label" x="917" y="230" w="240" h="47" measuredW="391" measuredH="24" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <size>14</size>
+        <text>Improve%20your%20MyGov%20experience%3A%20finish%20your%20profile%20today</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Label" x="917" y="277" w="206" h="106" measuredW="817" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>12</size>
+        <text>This%20helps%20us%20do%20a%20better%20job%20of%20finding%20information%20and%20services%20relevant%20to%20you%2C%20as%20well%20as%20assist%20you%20in%20completing%20services%20online%20more%20efficiently.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="__group__" x="250" y="93" w="960" h="46" measuredW="960" measuredH="46" zOrder="20" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="960" h="46" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="70">
+          <controlProperties>
+            <color>15658734</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="15" y="11" w="133" h="25" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="70">
+          <controlProperties>
+            <bold>true</bold>
+            <size>14</size>
+            <text>Todd%27s%20MyGov</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::SearchBox" x="738" y="12" w="203" h="-1" measuredW="198" measuredH="25" zOrder="2" locked="false" isInGroup="70">
+          <controlProperties>
+            <text>Search%20all%20Government%20sites</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="536" y="13" w="-1" h="-1" measuredW="186" measuredH="23" zOrder="3" locked="false" isInGroup="70">
+          <controlProperties>
+            <text>Refinance%20your%20MD%20Mortgage</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Link" x="127" y="11" w="-1" h="-1" measuredW="53" measuredH="23" zOrder="4" locked="false" isInGroup="70">
+          <controlProperties>
+            <bold>false</bold>
+            <text>Sign%20out</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Link" x="440" y="104" w="-1" h="-1" measuredW="102" measuredH="23" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>Account%20settings</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::PieChart" x="1136" y="284" w="44" h="41" measuredW="180" measuredH="180" zOrder="22" locked="false" isInGroup="-1"/>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Button" x="917" y="387" w="111" h="28" measuredW="95" measuredH="28" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>16777215</color>
+        <icon>RightArrowIcon%7Cxsmall</icon>
+        <text>Complete</text>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::Link" x="284" y="489" w="-1" h="-1" measuredW="274" measuredH="20" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>11</size>
+        <text>Your%20privacy%20and%20security%20are%20really%20important%20to%20us%20%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Link" x="272" y="581" w="-1" h="-1" measuredW="223" measuredH="23" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>%u2022%20Change%20of%20address%20%28US%20Post%20Office%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Link" x="272" y="616" w="-1" h="-1" measuredW="262" measuredH="23" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>%u2022%20Ge%20a%20new%20driver%27s%20license%20%28Maryland%20DMV%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="__group__" x="272" y="286" w="639" h="241" measuredW="639" measuredH="241" zOrder="26" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="615" h="241" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="87">
+          <controlProperties>
+            <borderColor>13421772</borderColor>
+            <color>14540253</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="12" y="8" w="627" h="39" measuredW="349" measuredH="29" zOrder="1" locked="false" isInGroup="87">
+          <controlProperties>
+            <size>18</size>
+            <text>You%27re%20almost%20done%20changing%20your%20name%21</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Link" x="313" y="87" w="-1" h="-1" measuredW="52" measuredH="20" zOrder="2" locked="false" isInGroup="87">
+          <controlProperties>
+            <bold>false</bold>
+            <size>11</size>
+            <text>x%20Remove</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="10" y="74" w="297" h="49" measuredW="279" measuredH="28" zOrder="3" locked="false" isInGroup="87">
+          <controlProperties>
+            <text>Change%20your%20name%20with%20Social%20Security%20%3E</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="10" y="133" w="297" h="49" measuredW="177" measuredH="28" zOrder="4" locked="false" isInGroup="87">
+          <controlProperties>
+            <text>Get%20your%20new%20passport%20%3E</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Link" x="313" y="147" w="-1" h="-1" measuredW="52" measuredH="20" zOrder="5" locked="false" isInGroup="87">
+          <controlProperties>
+            <bold>false</bold>
+            <size>11</size>
+            <text>x%20Remove</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Label" x="280" y="329" w="536" h="29" measuredW="498" measuredH="23" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>13</size>
+        <text>Complete%20the%20tasks%20you%20need%2C%20pre-filled%20with%20the%20information%20you%27ve%20already%20saved.%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

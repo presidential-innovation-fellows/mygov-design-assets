@@ -1,0 +1,104 @@
+<mockup version="1.0" skin="sketch" measuredW="1469" measuredH="630" mockupW="1359" mockupH="630">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="220" y="3" w="1020" h="484" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>USA.gov%0Ahttp%3A//www.mygov.usa.gov/save</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="272" y="143" w="-1" h="-1" measuredW="422" measuredH="56" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>40</size>
+        <text>Save%20your%20information</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="250" y="136" w="960" h="301" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="272" y="221" w="-1" h="-1" measuredW="300" measuredH="29" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Save%20your%20information%20with%20MyGov</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="272" y="249" w="646" h="65" measuredW="1385" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>12</size>
+        <text>Gone%20are%20the%20days%20of%20having%20to%20enter%20and%20re-enter%20your%20basic%20information%20like%20name%20and%20address%20every%20time%20you%20visit%20a%20government%20website.%20With%20MyGov%2C%20your%20information%20is%20safe%20and%20secure.%20Creating%20your%20account%20is%20easy%2C%20and%20only%20takes%20a%20few%20moments.</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::HRule" x="272" y="209" w="916" h="-1" measuredW="100" measuredH="5" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="272" y="356" w="171" h="41" measuredW="64" measuredH="28" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+        <text>Google</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="272" y="319" w="-1" h="-1" measuredW="112" measuredH="29" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Sign%20in%20with%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Link" x="467" y="364" w="-1" h="-1" measuredW="400" measuredH="23" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Don%27t%20have%20a%20Google%20account%3F%20We%27ll%20help%20you%20with%20alternatives%20%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::ModalScreen" x="110" y="0" w="1359" h="630" measuredW="320" measuredH="240" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Canvas" x="488" y="87" w="455" h="296" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="516" y="104" w="383" h="60" measuredW="470" measuredH="29" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Authorize%20the%20application%20%22MyGov%22%20to%20use%20your%20Google</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Button" x="516" y="225" w="171" h="41" measuredW="41" measuredH="28" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+        <text>OK</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Button" x="711" y="224" w="171" h="41" measuredW="63" measuredH="28" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Paragraph" x="500" y="164" w="302" h="51" measuredW="200" measuredH="140" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>*%20name%0A*%20email%20address</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="__group__" x="250" y="95" w="960" h="46" measuredW="960" measuredH="46" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="960" h="46" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="40">
+          <controlProperties>
+            <color>15658734</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="15" y="11" w="63" h="25" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="40">
+          <controlProperties>
+            <bold>true</bold>
+            <size>14</size>
+            <text>MyGov</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::SearchBox" x="738" y="12" w="203" h="-1" measuredW="198" measuredH="25" zOrder="2" locked="false" isInGroup="40">
+          <controlProperties>
+            <text>Search%20all%20Government%20sites</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::LinkBar" x="73" y="13" w="-1" h="-1" measuredW="103" measuredH="20" zOrder="3" locked="false" isInGroup="40">
+          <controlProperties>
+            <size>11</size>
+            <text>Sign%20up%2C%20Sign%20in</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="628" y="13" w="-1" h="-1" measuredW="104" measuredH="23" zOrder="4" locked="false" isInGroup="40">
+          <controlProperties>
+            <text>Register%20to%20vote</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

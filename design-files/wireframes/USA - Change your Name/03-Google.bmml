@@ -1,0 +1,31 @@
+<mockup version="1.0" skin="sketch" measuredW="1240" measuredH="741" mockupW="1020" mockupH="702">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="220" y="39" w="1020" h="702" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20Google%0Ahttp%3A//www.google.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="840" y="322" w="-1" h="-1" measuredW="66" measuredH="28" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="650" y="234" w="-1" h="-1" measuredW="129" measuredH="56" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>40</size>
+        <text>Google</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::SearchBox" x="568" y="323" w="263" h="-1" measuredW="191" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>I%20want%20to%20change%20my%20name</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::IconLabel" x="868" y="362" w="-1" h="-1" measuredW="32" measuredH="55" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>HandPointIcon%7Cmedium</icon>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

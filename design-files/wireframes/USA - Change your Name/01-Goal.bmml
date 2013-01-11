@@ -1,0 +1,90 @@
+<mockup version="1.0" skin="sketch" measuredW="1228" measuredH="648" mockupW="1093" mockupH="632">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Paragraph" x="167" y="129" w="182" h="29" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>Goal%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="135" y="16" w="1093" h="632" measuredW="100" measuredH="70" zOrder="0" locked="true" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="167" y="161" w="712" h="73" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>Primary%3A%20Person%20is%20able%20to%20complete%20change%20of%20name%20with%20a%20service%20called%20MyGov.%0A%20%0ASecondary%3A%20There%27s%20an%20increase%20in%20positive%20perception%20of%20the%20task%2C%20as%20measured%20by%20pre-%20and%20post-experience%20ranking.</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="167" y="249" w="182" h="29" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>Task%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="167" y="361" w="275" h="29" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>What%20Success%20Looks%20Like%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" x="167" y="505" w="182" h="29" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>Author%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Paragraph" x="167" y="538" w="222" h="45" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>UI%20-%20Danny%20Chapman%0AUX%20-%20Kara%20DeFrias</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Paragraph" x="167" y="274" w="697" h="91" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>Person%20needs%20to%20change%20their%20name.%20After%20a%20search%20on%20Google%20/%20search%20engine%20of%20their%20choice%2C%20they%20end%20up%20on%20a%20content%20page%20at%20USA.gov.%20Workflow%20shows%20how%20MyGov%20integrates%20into%20this%20process.</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Paragraph" x="167" y="390" w="697" h="107" measuredW="200" measuredH="140" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>End%20user%20accomplishes%20this%20task%20using%20MyGov%20either%20through%20completing%20the%20PDF%20online%20or%20printing%20out%20the%20partially%20pre-filled%20form.%0A%20%0AAgency%20adoption%20%28Social%20Security%20Administration%2C%20GSA%2C%20etc.%29%20with%20MyGov%20to%20accomplish%20this%20goal%20without%20duplicated%20effort.</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::HRule" x="170" y="157" w="695" h="-1" measuredW="100" measuredH="5" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::HRule" x="167" y="273" w="695" h="-1" measuredW="100" measuredH="5" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::HRule" x="167" y="387" w="695" h="-1" measuredW="100" measuredH="5" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::HRule" x="167" y="529" w="695" h="-1" measuredW="100" measuredH="5" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Paragraph" x="167" y="32" w="487" h="29" measuredW="200" measuredH="140" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>20</size>
+        <text>MyGov%3A%20Change%20of%20Name%20Wireframe</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Paragraph" x="167" y="61" w="536" h="64" measuredW="200" measuredH="140" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>Created%3A%208/31/2012%0ALast%20Updated%3A%209/6/2012%0AVersion%207</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
